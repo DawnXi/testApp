@@ -1,0 +1,17 @@
+{
+  "name": "getgoods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getgoods.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "connect-multiparty": "^2.1.0",
+    "orm": "^4.0.2",
+    "express-jwt": "^5.3.0",
+    "jsonwebtoken": "^7.4.1"
+  }
+}
